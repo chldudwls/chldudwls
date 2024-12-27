@@ -29,6 +29,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Tomcat-FF5733?style=for-the-badge&logo=apache-tomcat&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-4A90E2?style=for-the-badge&logo=websocket&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A9E0?style=for-the-badge&logo=openai&logoColor=white)
 
 
 
