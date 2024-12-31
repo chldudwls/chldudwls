@@ -76,7 +76,7 @@
 ## 📫 Contact
 - **GoogleEmail**: dudwls4251@gmail.com
 - **NaverEmail**: hjhjwe@naver.com
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/your-profile)
+- **LinkedIn**: [https://choiyeongjin.tistory.com/](https://linkedin.com/in/your-profile)
 
 
 ---
