@@ -41,7 +41,7 @@
 
 ### 1. **lotteon 1차 project**
 - **Description**: 사용자 인증, 상품 등록/조회, 장바구니, 계시판, 글쓰기, 수정,삭제 등을 할 수 있는 기능  웹 쇼핑몰 입니다.
-- **Tech Stack**: Spring Boot, MySQL, JWT
+- **Tech Stack**: Spring Boot, MySQL, JWT등
 - **Features**:
   - 사용자 인증 및 권한 관리
   - 상품 등록 및 수정/삭제 기능
@@ -52,8 +52,8 @@
 - **Repository**: [GitHub Link](https://github.com/your-repo)
 
 ### 2. **lotteon 2차 project**
-- **Description**: 사내커뮤니케이션 엡어플리케이션 .
-- **Tech Stack**: MongoDB, MySQL, React, JWT, 
+- **Description**: 사내커뮤니케이션 엡어플리케이션 입니다.
+- **Tech Stack**: MongoDB, MySQL, React, JWT등
 - **Features**:
   - CRUD 기능
   - 태그 및 카테고리 필터링
